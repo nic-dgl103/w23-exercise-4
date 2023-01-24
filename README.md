@@ -44,7 +44,7 @@ Remember to:
 
 ### Step 5: Format, organize and add comments 
 * Use the Prettier VSCode extension to format your code.
-* Make your CSS easier to read by adding organizational comments like we did in the CSS for exercise 3.
+* The CSS is so short for this webpage that you don't need to add organizational CSS comments to make it easier to read. Instead, order your CSS style rules in the same hierarchical order as the HTML.
 * Add a few comments to explain your HTML and CSS code and highlight anything of interest.
 
 ### Step 6: Check for errors
