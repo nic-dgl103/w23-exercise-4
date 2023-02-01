@@ -39,7 +39,7 @@ Remember to:
   * Resize the background image to cover the entire page, even if it has to stretch the image or cut a little bit off one of the edges (https://www.w3schools.com/cssref/css3_pr_background-size.php)
 
 ### Step 3: Add some navigation 
-*  In the HTML, add a navigation list to the top of the page. In clude the content shown in the provided example image.
+*  In the HTML, add a navigation list to the top of the page. Include the content shown in the provided example image.
 *  Style the navigation so that it looks as close as you can get it to the navigation in the example image. 
 
 ### Step 5: Format, organize and add comments 
