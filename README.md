@@ -1,7 +1,7 @@
 # Exercise 4
 
 ## Objectives
-Practice styling the content of a webpage using CSS. When you are finished your page shold look like this (the layout will vary depending on your screen size):
+Practice styling the content of a webpage using CSS. When you are finished your page should look like this (the layout will vary depending on your screen size):
 ![Image of homepage](images/example.png)
 
 ## Instructions
@@ -21,8 +21,8 @@ Remember to:
   * Find the font called Source Code Pro, select the Regular 400 weight.
   * Find the font called Stint Ultra Condensed and select the Regular 400 weight.
   * Copy the link code and paste it in the head of the index file (you may need to first open the side panel by clicking on the icon of 3 squares in the top right hand corner of the main menu).
-  * Copy the Source Code Pro CSS declaration and apply it to all the text on the page.
-  * Copy the Stint Ultra Condensed CCS declaration and apply it to the h1 element.
+  * Copy the Source Code Pro CSS declaration and, in VS Code, apply it to all the text on the page.
+  * Copy the Stint Ultra Condensed CCS declaration and, in VS Code, apply it to the h1 element.
 * Change the font sizing:
   * Change the root font size to 62.5%;
   * Reduce the font size of all the text on the page to the equivalent of 16 pixels using the rem unit.
