@@ -42,15 +42,15 @@ Remember to:
 *  In the HTML, add a navigation list to the top of the page. Include the content shown in the provided example image.
 *  Style the navigation so that it looks as close as you can get it to the navigation in the example image. 
 
-### Step 5: Format, organize and add comments 
+### Step 4: Format, organize and add comments 
 * Use the Prettier VSCode extension to format your code.
 * The CSS is so short for this webpage that you don't need to add organizational CSS comments to make it easier to read. Instead, order your CSS style rules in the same hierarchical order as the HTML.
 * Add a few comments to explain your HTML and CSS code and highlight anything of interest.
 
-### Step 6: Check for errors
+### Step 5: Check for errors
 Use the VSCode HTMLHint extension and validate your code to make sure that it is correct(https://validator.w3.org/#validate_by_upload for HTML, https://jigsaw.w3.org/css-validator/ for CSS).
 
-### Step 7: Submit your work
+### Step 6: Submit your work
 1. Commit your changes.
 2. Push your changes to GitHub. 
 3. Submit in Brightspace to the "Unit 2 Exercises" assignment and follow the instructions. 
