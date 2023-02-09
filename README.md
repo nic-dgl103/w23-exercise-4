@@ -25,7 +25,7 @@ Remember to:
   * Copy the Stint Ultra Condensed CCS declaration and, in VS Code, apply it to the h1 element.
 * Change the font sizing:
   * Change the root font size to 62.5%;
-  * Reduce the font size of all the text on the page to the equivalent of 16 pixels using the rem unit.
+  * Change the font size of all the text on the page to the equivalent of 16 pixels using the rem unit.
 * Style the h1:
   * Increase the h1 font size to the equivalent of 200 pixels using the rem unit.
   * Reduce the line-height of the h1 to 0.8;
